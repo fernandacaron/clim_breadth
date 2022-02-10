@@ -1,4 +1,4 @@
-rm(list=ls())
+crm(list=ls())
 
 library(phytools)
 library(geiger)
